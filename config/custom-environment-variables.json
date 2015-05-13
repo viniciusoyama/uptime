@@ -1,4 +1,4 @@
 {
-  mongodb: { connectionString: "MONGOID_URI"},
+  mongodb: { connectionString: "MONGO_URI"},
   monitor: { apiUrl: "UPTIME_API_URL" }
 }
